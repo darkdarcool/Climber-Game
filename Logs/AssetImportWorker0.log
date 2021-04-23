@@ -1,0 +1,80 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/sridharreddy/Documents/GitHub/Climber-Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59037
+Successfully changed project path to: /Users/sridharreddy/Documents/GitHub/Climber-Game
+/Users/sridharreddy/Documents/GitHub/Climber-Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/sridharreddy/Documents/GitHub/Climber-Game/Assets
+GfxDevice: creating device client; threaded=0
+2021-04-23 11:57:10.647 Unity[78613:2843411] Color LCD preferred device: NVIDIA GeForce GT 650M (high power)
+2021-04-23 11:57:10.647 Unity[78613:2843411] Metal devices available: 2
+2021-04-23 11:57:10.647 Unity[78613:2843411] 0: NVIDIA GeForce GT 650M (high power)
+2021-04-23 11:57:10.647 Unity[78613:2843411] 1: Intel HD Graphics 4000 (low power)
+2021-04-23 11:57:10.648 Unity[78613:2843411] Using device NVIDIA GeForce GT 650M (high power)
+Initializing Metal device caps: NVIDIA GeForce GT 650M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56613
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000752 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 32.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.379 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.327 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1103 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.3 MB.
+System memory in use after: 125.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 2.200058 ms (FindLiveObjects: 0.176153 ms CreateObjectMapping: 0.044721 ms MarkObjects: 1.845008 ms  DeleteObjects: 0.132332 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/SampleScene/Objects/Scripts/AI_SCRIPT.cs
+  artifactKey: Guid(a6daaa156316b4cd8b0703f73ff3dfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Objects/Scripts/AI_SCRIPT.cs using Guid(a6daaa156316b4cd8b0703f73ff3dfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b59769360219fc8f261e1fcd25c6723') in 0.415109 seconds
+  Import took 0.418417 seconds .
+
