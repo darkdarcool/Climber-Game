@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E3FF2D95-6D1F-692B-48AC-09ACE636B6DE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/SampleScene/Objects/Scripts/Respawn.cs">
+    <Files>
+      <File FileName="Assets/Scenes/SampleScene/Objects/Scripts/Respawn.cs" Line="12" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Climber-Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="SampleScene" expanded="True">
+                  <Node name="Objects" expanded="True">
+                    <Node name="Scripts" expanded="True">
+                      <Node name="Respawn.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b002a1ce-0e50-48f4-8bf3-04f95b1adf98" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
