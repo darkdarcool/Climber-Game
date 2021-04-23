@@ -23,6 +23,7 @@ public class AI_SCRIPT : MonoBehaviour
     bool alreadyAttacked;
     // SUB - shooting stuff
     public GameObject bullet;
+
     public Transform shootLoc;
     ///////////////////////
     // Start is called before the first frame update
