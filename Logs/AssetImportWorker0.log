@@ -2889,3 +2889,26 @@ Received Import Request.
 Start importing Assets/Scenes/SampleScene/Objects/Scripts/Bullet.prefab using Guid(475b807ffa67049a6803ec3998c6a005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5bba38449106db10f71e3ba62b3ad7') in 0.007302 seconds
   Import took 0.009915 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000411 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.5 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1609.
+Total: 2.151006 ms (FindLiveObjects: 0.190629 ms CreateObjectMapping: 0.054399 ms MarkObjects: 1.786938 ms  DeleteObjects: 0.116639 ms)
+
