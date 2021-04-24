@@ -5,15 +5,22 @@ using UnityEngine;
 public class Respawn : MonoBehaviour
 {
 
-    [SerializeField] private Transform player;
-    [SerializeField] private Transform respawnPoint;
-    private void OnTriggerEnter(Collider other)
+    public Transform player;
+    public Transform respawnPoint;
+    private void OnTriggerEnter(Collider other) // On touch of the wall
     {
-			Debug.Log(other);
-			if (other == player.transform) {
-				Debug.Log("Player Hit Me!");
+			/*
+			Just to figure out who hit the death wall!
+			Debug.Log(other.name);
+			*/
+			if (other.name == "Player") {
+				// Event where the player hits a death wall
+				player.transform.position = respawnPoint.transform.position;
 			}
-			Debug.Log("Hello! Respawning!");
-        player.transform.position = respawnPoint.transform.position;
+			else {
+				// This is the even where the bullet hits a death wall
+			}
+			
+        
     }
 }
