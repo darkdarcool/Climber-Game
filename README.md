@@ -2,10 +2,7 @@
 
 Climb To the top
 
-Hi! And welcome to climber. You need to prove that you can climb to the top. People might get jealous and try to stop you, but you're better than them. You have to climb to the top. 
-## Welcome to climber.
-
-Made by @darkdarcool in Unity!
+Made by [@darkdarcool](https://github.com/darkdarcool) in Unity!
 
 # Hiya! 
 
@@ -26,6 +23,12 @@ They are ruthless. They don't give up. They might get up close and personal, or 
 Whatever they are... don't get hit.
 
 Chances are, when you get hit, you're done. Dead. Beaten. Gone. But don't give up. Get up and try again. Learn why they hit you, shake it off, and go again. Don't let them win.
+
+# Screenshots!
+
+<img width="1122" alt="Screen Shot 2021-05-12 at 1 40 41 PM" src="https://user-images.githubusercontent.com/66882633/118041455-a8adf000-b327-11eb-9ca4-d300ddebf934.png">
+<br>
+<img width="1125" alt="Screen Shot 2021-05-12 at 1 42 16 PM" src="https://user-images.githubusercontent.com/66882633/118041667-ead73180-b327-11eb-98df-5ce4feca1c38.png">
 
 # Closing
 
