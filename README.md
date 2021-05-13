@@ -30,6 +30,7 @@ Chances are, when you get hit, you're done. Dead. Beaten. Gone. But don't give u
 <br>
 <img width="1125" alt="Screen Shot 2021-05-12 at 1 42 16 PM" src="https://user-images.githubusercontent.com/66882633/118041667-ead73180-b327-11eb-98df-5ce4feca1c38.png">
 </a>
+
 # Closing
 
 Hope you have fun playing this. Make sure to start this!
