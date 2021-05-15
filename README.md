@@ -29,4 +29,4 @@ But the worst thing, is you can kill them(if you get to the top with zero deaths
 
 # Closing
 
-Hope you have fun playing this. Make sure to start this!
+Hope you have fun playing this. Make sure to star this!
