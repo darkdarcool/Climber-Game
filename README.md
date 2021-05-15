@@ -18,7 +18,7 @@ You can move **Lil' Pill Bro** by using `WASD`. You can make him jump by pressin
 
 They are AI and there are many types! There are your Short Range Shooter Guys! They are on platforms you jump on most of the time, and have short sight and attack range, but they get close and personal. And then there's your sniper guys. They are always behind a death wall on a platform. They have a long sight range and a long attack range. It's hard not to be spotted by them. But no matter then enemy, just don't get hit. (I made them specificly so thay have bad aim if you keep going). 
 
-But the worst thing, is you can kill them(if you get to the top with zero deaths, there is a chance that it may be different :)). They have invisible walls, everywhere.(If you know what unity is, there are no invisible walls, just the nav mesh). They can't walk off ANYTHING.
+But the worst thing, is you can't kill them(if you get to the top with zero deaths, there is a chance that it may be different :)). They have invisible walls, everywhere.(If you know what unity is, there are no invisible walls, just the nav mesh). They can't walk off ANYTHING.
 
 # Screenshots!
 <a href = "#">
